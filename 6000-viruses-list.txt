@@ -1,6 +1,4 @@
 
-UNRAR 5.00 freeware      Copyright (c) 1993-2013 Alexander Roshal
-
 Archive: 6000.Viruses.VX.Collector-Malware.Researcher.Starter.Kit.rar
 Details: RAR 4
 
