@@ -1,0 +1,59 @@
+Archive:  54 Live Viruses for VX Collectors.zip
+  Length      Date    Time    Name
+---------  ---------- -----   ----
+     3293  2004-10-08 11:00   54 Live Viruses for VX Collectors/HTML_LimpCock_A.html
+  1097728  2004-10-08 09:49   54 Live Viruses for VX Collectors/IRC-Worm.Azrael.exe
+     1390  2004-10-08 09:40   54 Live Viruses for VX Collectors/IRC-Worm.Generic.bat
+      588  2004-10-08 09:40   54 Live Viruses for VX Collectors/IRC-Worm.Generic.com
+     5244  2004-10-08 09:40   54 Live Viruses for VX Collectors/IRC-Worm.Generic.doc
+     3002  2004-10-08 09:43   54 Live Viruses for VX Collectors/IRC-Worm.Generic.exe.bat
+     2557  2004-10-08 09:44   54 Live Viruses for VX Collectors/IRC-Worm.Generic.htm
+     2965  2004-10-08 09:44   54 Live Viruses for VX Collectors/IRC-Worm.Generic.ini
+     4459  2004-10-08 09:44   54 Live Viruses for VX Collectors/IRC-Worm.Generic.js
+     8092  2004-10-08 09:44   54 Live Viruses for VX Collectors/IRC-Worm.Generic.shs
+    17629  2004-10-08 09:44   54 Live Viruses for VX Collectors/IRC-Worm.Generic.vbe
+    10035  2004-10-08 09:45   54 Live Viruses for VX Collectors/IRC-Worm.Generic.vbs
+     3127  2004-10-08 09:51   54 Live Viruses for VX Collectors/IRC-Worm.Showdown.com
+     2125  2004-10-08 10:02   54 Live Viruses for VX Collectors/I-Worm Crist.vbs
+  1497314  2004-10-08 10:30   54 Live Viruses for VX Collectors/I-Worm VBSWG.vbs
+    10682  2004-10-08 09:53   54 Live Viruses for VX Collectors/I-Worm.Ancrist.zip
+    41554  2004-10-08 09:56   54 Live Viruses for VX Collectors/I-Worm.BWG.f.exe
+    12544  2004-10-08 10:03   54 Live Viruses for VX Collectors/I-Worm.Delf.d.exe
+    15360  2004-10-08 10:03   54 Live Viruses for VX Collectors/I-Worm.Delf.e.exe
+    20992  2004-10-08 10:04   54 Live Viruses for VX Collectors/I-Worm.FreeTrip.a.exe
+     8192  2004-10-08 10:05   54 Live Viruses for VX Collectors/I-Worm.FreeTrip.b.exe
+     8192  2004-10-08 10:05   54 Live Viruses for VX Collectors/I-Worm.FreeTrip.c.exe
+    80384  2004-10-08 10:18   54 Live Viruses for VX Collectors/I-Worm.generic.exe
+     1218  2004-10-08 10:11   54 Live Viruses for VX Collectors/I-Worm.MyDoom.m.log
+     9526  2004-10-08 10:15   54 Live Viruses for VX Collectors/I-Worm.Saywa.zip
+    10511  2004-10-08 10:13   54 Live Viruses for VX Collectors/I-Worm.SSIWG.g.exe
+    19943  2004-10-08 10:27   54 Live Viruses for VX Collectors/I-Worm.Thonic.a.exe
+    19264  2004-10-08 10:27   54 Live Viruses for VX Collectors/I-Worm.Thonic.b.exe
+   172032  2004-10-08 10:19   54 Live Viruses for VX Collectors/I-Worm.VB.h.exe
+    20480  2004-10-08 10:19   54 Live Viruses for VX Collectors/I-Worm.VB.q.exe
+     4294  2004-10-08 10:15   54 Live Viruses for VX Collectors/I-Worm_SSIWG.c.vbs
+    38048  2004-10-08 10:29   54 Live Viruses for VX Collectors/I-Worm_VBSWG_ab.bat
+    13184  2004-10-08 10:28   54 Live Viruses for VX Collectors/I-Worm_VBSWG_ac.vbs
+     8073  2004-10-08 10:20   54 Live Viruses for VX Collectors/I-Worm_WCGen.vbs
+     1047  2004-10-08 10:35   54 Live Viruses for VX Collectors/Trojan.FreeBSD.Rootkit.a.rar
+   645120  2004-10-08 10:35   54 Live Viruses for VX Collectors/Trojan.FreeBSD.Rootkit.d.bz
+     1232  2004-10-08 11:14   54 Live Viruses for VX Collectors/Trojan.VBS.Shutdown.c.html
+    39292  2004-10-08 11:16   54 Live Viruses for VX Collectors/Trojan.VBS.Shutdown.d.html
+      889  2004-10-08 11:12   54 Live Viruses for VX Collectors/Trojan.VBS.Starter.a.html
+     2556  2004-10-08 10:59   54 Live Viruses for VX Collectors/Trojan_VBS_IFrame.html
+     3265  2004-10-08 11:10   54 Live Viruses for VX Collectors/Trojan_VBS_Seven_a.vbs
+    14336  2004-10-08 11:40   54 Live Viruses for VX Collectors/TrojanDownloader.Win32.Crypt.exe
+    28672  2004-10-08 11:40   54 Live Viruses for VX Collectors/TrojanDownloader.Win32.Crypter.exe
+   118784  2004-10-08 11:36   54 Live Viruses for VX Collectors/TrojanDownloader.Win32.Lookme.b.exe
+     2592  2004-10-08 11:42   54 Live Viruses for VX Collectors/TrojanDownloader.Win32.Small.cz.exe
+    13341  2004-10-08 11:56   54 Live Viruses for VX Collectors/TrojanDropper.VBS.Inor.bp.html
+    12076  2004-10-08 11:53   54 Live Viruses for VX Collectors/TrojanDropper.VBS.Inor.o.html
+     3097  2004-10-08 11:52   54 Live Viruses for VX Collectors/TrojanDropper_VBS_Inor_ak.vbs
+    49152  2004-10-08 13:51   54 Live Viruses for VX Collectors/Worm.Collo.a.exe
+    79369  2004-10-08 13:51   54 Live Viruses for VX Collectors/Worm.Collo.c.exe
+     8192  2004-10-08 13:57   54 Live Viruses for VX Collectors/Worm.P2P.Compux.a.exe
+     7020  2004-10-08 13:55   54 Live Viruses for VX Collectors/Worm.P2P.Copybat.ai.txt
+    75784  2004-10-08 13:53   54 Live Viruses for VX Collectors/Worm.P2P.Speedup.exe
+    28244  2004-10-08 13:57   54 Live Viruses for VX Collectors/Worm_P2P_Copybat_am.txt
+---------                     -------
+  4308081                     54 files
