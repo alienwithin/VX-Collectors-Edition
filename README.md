@@ -2,9 +2,9 @@ This is a collection of Viruses and Worms for Malware Researchers it forms a goo
 
 Some viruses in the collection are: 
 
-	[Full Virus List](./6000-viruses-list.txt)
+[Full Virus List](./6000-viruses-list.txt)
 
-        ![VX Collectors](./6000-virusa.png "Worm Archive")
+![VX Viruses](./6000-virusa.png "Virus Archive")
 
 Some of the Worms: 
 
